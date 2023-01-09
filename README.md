@@ -17,9 +17,7 @@ Displaying random quotes from an API with the ability to share.
 
 ### Executing program
 
-```
-Go Live 
-```
+- N/A
 
 ## Authors
 
